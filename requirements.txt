@@ -1,0 +1,9 @@
+numpy>=1.24
+scipy>=1.10
+scikit-learn>=1.2
+torch>=2.0
+torchvision>=0.15
+transformers>=4.30
+Pillow>=9.0
+opencv-python>=4.7
+matplotlib>=3.7

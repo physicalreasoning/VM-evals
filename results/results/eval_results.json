@@ -1,0 +1,106 @@
+{
+  "DMFC_raw": {
+    "system": "DMFC_raw",
+    "shape": [
+      1889,
+      79,
+      100
+    ],
+    "eigenspectrum_top3": 58.1598360305991,
+    "participation_ratio_mean": 9.20814446197687,
+    "geometry_angle": 56.45870070496677,
+    "geometry_accuracy": 0.45569620253164556,
+    "endpoint_peak_r": 0.9333665959902935,
+    "trajectory_peak_r": 0.3909027914090705,
+    "bounce_accuracy": 0.47970238095238094,
+    "bounce_p_value": 0.64
+  },
+  "DMFC_FA50": {
+    "system": "DMFC_FA50",
+    "shape": [
+      50,
+      79,
+      94
+    ],
+    "eigenspectrum_top3": 6.444546998964063,
+    "participation_ratio_mean": 32.052820432810755,
+    "geometry_angle": 82.50603106020489,
+    "geometry_accuracy": 0.5949367088607594,
+    "endpoint_peak_r": 0.9244019945588944,
+    "trajectory_peak_r": 0.41514593433732694,
+    "bounce_accuracy": 0.573063492063492,
+    "bounce_p_value": 0.24
+  },
+  "DINOv2/blocks.2": {
+    "system": "DINOv2/blocks.2",
+    "shape": [
+      768,
+      79,
+      186
+    ],
+    "eigenspectrum_top3": 55.369620381728204,
+    "participation_ratio_mean": 4.933995251787056,
+    "geometry_angle": 22.69434217810618,
+    "geometry_accuracy": 0.43037974683544306,
+    "endpoint_peak_r": 0.605107783414578,
+    "trajectory_peak_r": 0.2598358762462053,
+    "bounce_accuracy": 0.48230952380952374,
+    "bounce_p_value": 0.64,
+    "rsa_vs_dmfc_rho": 0.0025079226357337136,
+    "rsa_vs_dmfc_p": 9.810002862723948e-44
+  },
+  "DINOv2/blocks.5": {
+    "system": "DINOv2/blocks.5",
+    "shape": [
+      768,
+      79,
+      186
+    ],
+    "eigenspectrum_top3": 47.71866643220579,
+    "participation_ratio_mean": 8.337691321377275,
+    "geometry_angle": 105.89161656417335,
+    "geometry_accuracy": 0.43037974683544306,
+    "endpoint_peak_r": 0.9240199736644544,
+    "trajectory_peak_r": 0.0800747044306211,
+    "bounce_accuracy": 0.5654325396825397,
+    "bounce_p_value": 0.12,
+    "rsa_vs_dmfc_rho": 0.058706545469272786,
+    "rsa_vs_dmfc_p": 0.0
+  },
+  "DINOv2/blocks.8": {
+    "system": "DINOv2/blocks.8",
+    "shape": [
+      768,
+      79,
+      186
+    ],
+    "eigenspectrum_top3": 44.036117678662976,
+    "participation_ratio_mean": 10.430514074813928,
+    "geometry_angle": 90.28174579212295,
+    "geometry_accuracy": 0.4936708860759494,
+    "endpoint_peak_r": 0.942479485931566,
+    "trajectory_peak_r": 0.23882699119472,
+    "bounce_accuracy": 0.5566626984126983,
+    "bounce_p_value": 0.22,
+    "rsa_vs_dmfc_rho": 0.07695318880806185,
+    "rsa_vs_dmfc_p": 0.0
+  },
+  "DINOv2/blocks.11": {
+    "system": "DINOv2/blocks.11",
+    "shape": [
+      768,
+      79,
+      186
+    ],
+    "eigenspectrum_top3": 60.212139922112655,
+    "participation_ratio_mean": 6.916406927511653,
+    "geometry_angle": 36.97893119688738,
+    "geometry_accuracy": 0.45569620253164556,
+    "endpoint_peak_r": 0.9510081482910228,
+    "trajectory_peak_r": 0.10783880770965805,
+    "bounce_accuracy": 0.4672103174603175,
+    "bounce_p_value": 0.66,
+    "rsa_vs_dmfc_rho": 0.18815826407245376,
+    "rsa_vs_dmfc_p": 0.0
+  }
+}
